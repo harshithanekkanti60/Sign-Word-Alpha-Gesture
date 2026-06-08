@@ -1,4 +1,3 @@
-# Sign-Word-Alpha-Gesture
 
 # Sign Word Alpha Gesture Recognition System
 
